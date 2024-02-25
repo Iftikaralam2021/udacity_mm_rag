@@ -1,0 +1,37 @@
+{
+    "customer1": {
+        "How big do you want your house to be?": "A comfortable three-bedroom house with a spacious kitchen and a cozy living room.",
+        "What are 3 most important things for you in choosing this property?": "A quiet neighborhood, good local schools, and convenient shopping options.",
+        "Which amenities would you like?": "A backyard for gardening, a two-car garage, and a modern, energy-efficient heating system.",
+        "Which transportation options are important to you?": "Easy access to a reliable bus line, proximity to a major highway, and bike-friendly roads.",
+        "How urban do you want your neighborhood to be?": "A balance between suburban tranquility and access to urban amenities like restaurants and theaters."
+    },
+    "customer2": {
+        "How big do you want your house to be?": "A four-bedroom house with at least two bathrooms, a large dining area, and a playroom for the kids.",
+        "What are 3 most important things for you in choosing this property?": "Safety, proximity to parks and recreational facilities, and a friendly community.",
+        "Which amenities would you like?": "A swimming pool, a spacious backyard deck, and solar panels.",
+        "Which transportation options are important to you?": "Access to public transit, a safe neighborhood for walking, and ample parking.",
+        "How urban do you want your neighborhood to be?": "Suburban feel with easy access to nature and outdoor activities."
+    },
+    "customer3": {
+        "How big do you want your house to be?": "A compact two-bedroom townhouse with an open-plan living area and a small office space.",
+        "What are 3 most important things for you in choosing this property?": "Energy efficiency, low maintenance, and a modern design.",
+        "Which amenities would you like?": "Smart home features, an indoor gym, and a rooftop terrace.",
+        "Which transportation options are important to you?": "Close to subway and train services, bike storage, and electric vehicle charging stations.",
+        "How urban do you want your neighborhood to be?": "Highly urban, with close proximity to cultural venues, cafes, and nightlife."
+    },
+    "customer4": {
+        "How big do you want your house to be?": "A large five-bedroom estate with multiple living spaces, a gourmet kitchen, and guest quarters.",
+        "What are 3 most important things for you in choosing this property?": "Privacy, upscale amenities, and architectural uniqueness.",
+        "Which amenities would you like?": "A home cinema, an outdoor kitchen and entertainment area, and a private dock if waterfront.",
+        "Which transportation options are important to you?": "Private driveway, easy access for personal drivers and guests, and helicopter landing space.",
+        "How urban do you want your neighborhood to be?": "Secluded with a luxurious rural or coastal setting but within driving distance of a city."
+    },
+    "customer5": {
+        "How big do you want your house to be?": "A medium-sized loft with industrial design, high ceilings, and large windows.",
+        "What are 3 most important things for you in choosing this property?": "A pet-friendly policy, vibrant local art scene, and robust community events.",
+        "Which amenities would you like?": "On-site fitness center, community garden, and art studio space.",
+        "Which transportation options are important to you?": "Within walking distance to essentials, well-connected metro lines, and scooter rental stations.",
+        "How urban do you want your neighborhood to be?": "Very urban, with an eclectic mix of old and new, near the city center but with a strong sense of community."
+    }
+}
