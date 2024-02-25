@@ -25,4 +25,11 @@ def combine_csv_files(directory,output_filename):
     combined_data["House Size(sqft)"]=combined_data["House Size"].str.replace("sqft","").str.replace(",","").astype(float)
     combined_data["images"]="./images/image_"+combined_data["row_number"].astype(str)+".png"
     print(combined_data.head())
-    combined
+    combined_data.to_csv(output_filename, index=False)
+
+
+if __name__ == '__main__':
+    directory = './listings/'
+    filename = f'listings.csv'
+    combine_csv_files(directory, filename)
+    print(f'Combined data saved to {filename}')

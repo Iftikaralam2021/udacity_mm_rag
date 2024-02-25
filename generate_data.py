@@ -67,4 +67,21 @@ def get_images(listings,iteration=1,num_listings=5):
 
 if __name__ == "__main__":
     num_listings = 5
+    iteration = 1
+    user_prompt= f"""
+    Please generate  {num_listings} listing for homes. Use the example given below and  format the results in json format.All the results should be saved inside a key called listings. Each result should have the following keys: Neighborhood, Price, Bedrooms, Bathrooms, House Size, Description, Neighborhood Description.
+    Example:{example_listing}
+    """
+
+    while iteration <= 5:
     
+        listings = get_text_output(user_prompt)
+        # print(listings)
+        save_text_output(listings,iteration=iteration)
+        get_images(listings,iteration=iteration,num_listings=num_listings)
+        iteration+=1
+    
+    # print("Images saved to images folder")
+
+
+

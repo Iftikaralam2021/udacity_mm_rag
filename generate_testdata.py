@@ -69,4 +69,4 @@ if __name__ == '__main__':
         json.dump(listings, f, ensure_ascii=False, indent=4)
     # print(listings)
     # save_text_output(listings,iteration=1)
-    # get_images(listings,iteration=1,num_l
+    # get_images(listings,iteration=1,num_listings=5)
